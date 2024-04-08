@@ -1,1 +1,2 @@
-# Assignment-5---Collaborative-Filtering-Recommender-Systems
+In collaborative filtering for recommender systems, we aim to predict user ratings for items (like movies) based on historical ratings. We learn two sets of parameters: item parameters (representing item features) and user parameters (representing user preferences). By minimizing a cost function, which includes regularization to prevent overfitting, we adjust these parameters using optimization techniques like gradient descent. This allows us to make personalized recommendations for unrated items to users.
+Medium: https://medium.com/@mgajjar/assignment-5-collaborative-filtering-recommender-systems-c70e51df185e
